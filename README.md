@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Slamming7/Botv2Test/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -82,7 +82,7 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 * [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
